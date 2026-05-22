@@ -497,8 +497,8 @@ with tab_resultado:
                   <td style='font-family:var(--font-mono);font-weight:600;color:#00D4FF;text-align:center;'>
                     {row['costo']:.2f}
                   </td>
-                </tr>
-                """st.markdown(f"""<div class='resultado-tabla'>
+                </tr>"""
+            st.markdown(f"""<div class='resultado-tabla'>
               <table>
                 <thead>
                   <tr>
