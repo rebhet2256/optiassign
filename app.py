@@ -513,8 +513,7 @@ with tab_resultado:
                   {filas_html}
                 </tbody>
               </table>
-            </div>
-            """, unsafe_allow_html=True)
+            </div>""", unsafe_allow_html=True)
 
             # Total
             st.markdown(
