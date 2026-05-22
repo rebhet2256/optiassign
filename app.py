@@ -93,7 +93,7 @@ st.markdown("""
       <div class="app-title">Proyecto Investigacion Operativa I</div>
       <div class="app-subtitle">
         <span class="accent-dot"></span>
-        Sistema de Asignación Óptima de Personal · Método Húngaro · Investigación Operativa
+        Sistema de Asignación Óptima de Personal · Método Húngaro 
       </div>
     </div>
     <div style="margin-left:auto;">
