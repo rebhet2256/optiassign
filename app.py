@@ -483,8 +483,7 @@ with tab_resultado:
             tipo_col = "Costo/Tiempo" if resultado["tipo_opt"] == "minimizar" else "Eficiencia"
             filas_html = ""
             for row in tabla:
-                filas_html += f"""
-                <tr>
+                filas_html += f"""<tr>
                   <td>
                     <span class='badge badge-blue'>
                       👷 {row['trabajador']}
