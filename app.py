@@ -90,7 +90,7 @@ st.markdown("""
   <div style="display:flex; align-items:center; gap:1rem; flex-wrap:wrap;">
     <div style="font-size:2.8rem; line-height:1;">⚡</div>
     <div>
-      <div class="app-title">OptiAssign</div>
+      <div class="app-title">Proyecto Investigacion Operativa I</div>
       <div class="app-subtitle">
         <span class="accent-dot"></span>
         Sistema de Asignación Óptima de Personal · Método Húngaro · Investigación Operativa
