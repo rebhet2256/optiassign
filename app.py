@@ -498,9 +498,7 @@ with tab_resultado:
                     {row['costo']:.2f}
                   </td>
                 </tr>
-                """
-
-            st.markdown(f"""<div class='resultado-tabla'>
+                """st.markdown(f"""<div class='resultado-tabla'>
               <table>
                 <thead>
                   <tr>
